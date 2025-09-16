@@ -158,49 +158,5 @@ label:hover {
     transition: .5s;
 }
 
-/* #check1:checked ~ .container .photo-gallery .Pic{
-    opacity: 1;
-    transform: scale(1);
-    position: relative;
-    transition: .0s;
-}
-#check2:checked ~ .container .photo-gallery .Family{
-    transform: scale(1);
-    opacity: 1;
-    position: relative;
-   
-}
-#check2:checked ~ .container .photo-gallery .Child,
-#check2:checked ~ .container .photo-gallery .places{
-    opacity: 0;
-    transform: scale(0);
-    position: absolute;
-    transition: 0s;
-}  
 
-#check3:checked ~ .container .photo-gallery .Child{
-    transform: scale(1);
-    opacity: 1;
-    position: relative;
-}
-
-#check3:checked ~ .container .photo-gallery .Family,
-#check3:checked ~ .container .photo-gallery .child{
-    opacity: 0;
-    transform: scale(0);
-    position: absolute;
-    transition: 0s;
-}  
-#check4:checked ~ .container .photo-gallery .place{
-    transform: scale(1);
-    opacity: 1;
-    position: relative;
-}
-
-#check4:checked ~ .container .photo-gallery .Family,
-#check4:checked ~ .container .photo-gallery .place{
-    opacity: 0;
-    transform: scale(0);
-    position: absolute;
-    transition: 0s;
 } */
